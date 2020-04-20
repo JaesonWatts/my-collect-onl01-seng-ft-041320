@@ -6,6 +6,6 @@ def my_collect(array)
   else
     "woops"
   end
-  return_collection
+  return_collection.upcase
 end
 
