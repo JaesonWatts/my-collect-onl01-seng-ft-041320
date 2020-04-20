@@ -4,7 +4,7 @@ def my_collect(array)
   if array.length < 0 
     return_collection << yield(array[i])
   else
-  
+    "woops"
   end
   return_collection
 end
